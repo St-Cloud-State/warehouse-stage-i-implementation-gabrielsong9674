@@ -1,0 +1,33 @@
+Script started on Tue Oct  1 20:15:16 2024
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                           [0m[27m[24m[Jgracegabrielson@Graces-MacBook-Pro WarehouseStage1 % [K[?2004hjjavac Tester.java[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                           [0m[27m[24m[Jgracegabrielson@Graces-MacBook-Pro WarehouseStage1 % [K[?2004hjjava Tester.java[?2004l
+Test Client Class:
+Added client1: Client Name: Benjamin Nelson Id: C1 Address: 100 Bower St Phone: 123-456-7890
+Added client2: Client Name: Rachel Mixon Id: C2 Address: 200 Bower St Phone: 456-789-0123
+Added client3: Client Name: Chris Low Id: C3 Address: 300 Bower St Phone: 789-012-3456
+
+Test Product Class
+Added product1: Name: Iphone stock: 20 id: 1 price: $999.99
+Added product2: Name: Imac stock: 30 id: 2 price: $1999.99
+Added product3: Name: Iwatch stock: 10 id: 3 price: $499.99
+
+List of Clients:
+Client Name: Benjamin Nelson Id: C1 Address: 100 Bower St Phone: 123-456-7890
+Client Name: Rachel Mixon Id: C2 Address: 200 Bower St Phone: 456-789-0123
+Client Name: Chris Low Id: C3 Address: 300 Bower St Phone: 789-012-3456
+
+List of Products:
+Name: Iphone stock: 20 id: 1 price: $999.99
+Name: Imac stock: 30 id: 2 price: $1999.99
+Name: Iwatch stock: 10 id: 3 price: $499.99
+
+Adding products to Client1's Wishlist:
+Iphone added to Benjamin Nelson's wishlist
+Imac added to Benjamin Nelson's wishlist
+
+Displaying Client1's Wishlist:
+Product Name: Iwatch | ID: 3 | Quantity: 3 | Total Price: $1499.97
+Product Name: Iphone | ID: 1 | Quantity: 1 | Total Price: $999.99
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                           [0m[27m[24m[Jgracegabrielson@Graces-MacBook-Pro WarehouseStage1 % [K[?2004h[?2004l
+
+Script done on Tue Oct  1 20:15:30 2024
